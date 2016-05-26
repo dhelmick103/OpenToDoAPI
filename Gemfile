@@ -16,7 +16,7 @@ source 'https://rubygems.org'
  end
 
  group :development, :test do
-   gem 'byebug' 
+   gem 'byebug'
    gem 'spring'
    gem 'rspec-rails'
    gem 'shoulda'
@@ -29,6 +29,6 @@ source 'https://rubygems.org'
  gem 'coffee-rails', '~> 4.1.0'
  gem 'jquery-rails'
  gem 'turbolinks'
- gem 'bootstrap'
+ gem 'bootstrap-sass'
  gem 'figaro'
  gem 'pry'
